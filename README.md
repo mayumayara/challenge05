@@ -6,7 +6,7 @@ From [the Explore programming scholl](https://www.rocketseat.com.br/explorer) by
 
 ## About the challenge
 
-In this challenge, I had to diply what I've learned in stage 03 about CSS Grid.
+In this challenge, I had to go diply what I've learned in stage 03 about CSS Grid.
 
 ## Challenge layout
 
